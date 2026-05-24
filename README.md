@@ -67,8 +67,8 @@ Traditional lab monitoring software is easily bypassed by smart students using m
 <div align="center">
   <table style="border: none;">
     <tr>
-      <td><img src="https://github.com/Dhurandhar-Security/Dhurandhar/blob/main/screenshots/1.jpeg" alt="Lockscreen Block" width="250"></td>
-      <td><img src="https://github.com/Dhurandhar-Security/Dhurandhar/blob/main/screenshots/2.jpeg" alt="Log Generation" width="250"></td>
+      <td><img src="https://github.com/Dhurandhar-Security/Dhurandhar/blob/main/screenshots/screenshot1" alt="Lockscreen Block" width="250"></td>
+      <td><img src="https://github.com/Dhurandhar-Security/Dhurandhar/blob/main/screenshots/screenshot2" alt="Log Generation" width="250"></td>
     </tr>
   </table>
 </div>
