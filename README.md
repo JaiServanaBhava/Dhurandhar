@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/UI-Flashing_Lockscreen-brightgreen?style=for-the-badge" alt="UI">
   </p>
 
-  <a href="https://github.com/JaiServanaBhava/Dhurandhar/blob/main/Dhurandhar.exe">
+  <a href="https://github.com/JaiServanaBhava/Dhurandhar/blob/main/Dhurandhar.exe?raw=true">
     <img src="https://img.shields.io/badge/DOWNLOAD-DHURANDHAR_EXE-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Download EXE">
   </a>
 
