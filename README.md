@@ -89,7 +89,7 @@ Traditional lab monitoring software is easily bypassed by smart students using m
 ### 💻 Developer Testing Mode
 ```bash
 # Clone the repository structure
-git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
+git clone src="https://github.com/JaiServanaBhava/Dhurandhar
 cd Dhurandhar
 
 # Package into standard standalone background form-factor
